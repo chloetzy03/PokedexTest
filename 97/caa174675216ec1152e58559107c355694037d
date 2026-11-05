@@ -1,0 +1,21 @@
+PokedexTest.xcodeproj/project.pbxproj
+  s_a92baa9d705905::t_45ac99cc656d91 309,341
+PokedexTestTests/PokedexTestTests.swift
+  s_a92baa9d705905::t_3389de7706f8c5 13-237,239-264,266-283,285-365,367-433
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "97caa174675216ec1152e58559107c355694037d",
+  "prompts": {},
+  "sessions": {
+    "s_a92baa9d705905": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "s_a92baa9d705905",
+        "model": "unknown"
+      },
+      "human_author": "chloe <chloetzy03@gmail.com>"
+    }
+  }
+}

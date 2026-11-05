@@ -5,13 +5,14 @@
 //  Created by Kaushik Manian on 20/10/25.
 //
 
-import Testing
+import XCTest
 @testable import PokedexTest
 
-struct PokedexTestTests {
+@MainActor
+final class PokedexTestTests: XCTestCase {
 
-    @Test func example() async throws {
-        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    func testSomething() {
+        XCTAssertEqual(0, 0)
     }
 
 }
